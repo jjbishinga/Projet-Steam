@@ -14,7 +14,7 @@
 Il permet de récupérer automatiquement (Scraping) les offres de la section "Promotions" de Steam, puis d'analyser ces données via une interface graphique interactive pour trouver les pépites cachées (ex: jeux à -50% avec des avis "Très positifs").
 
 ### ✨ Fonctionnalités Clés
-* **🕵️‍♂️ Scraping Furtif :** Utilise un navigateur "Headless" et User-Agent réaliste.
+* **🕵 Scraping Furtif :** Utilise un navigateur "Headless" et User-Agent réaliste.
 * **🔄 Scroll Infini Automatisé :** Le script gère le chargement dynamique tout seul.
 * **📊 Analyse Intelligente :** Une interface graphique (GUI) pour filtrer par :
     * Budget max (€)
